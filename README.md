@@ -1,3 +1,3 @@
-# Front-page-freelance
-Front de página de práctica para un freelancer con html  y css.  
+# Freelance pagina front
+Front pagina de freelancer creada con html y css como práctica.   
 link: https://frontfreelance.netlify.app/
